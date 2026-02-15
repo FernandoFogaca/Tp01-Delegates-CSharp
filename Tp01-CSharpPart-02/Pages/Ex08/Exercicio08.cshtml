@@ -1,0 +1,18 @@
+@page
+@model Tp01_CSharpPart_02.Pages.Ex08.Exercicio08
+    
+<div class="container mt-5">
+    <h2 class="text-center mb-4 fw-bold text-primary"> Product List</h2>
+    <ul class="list-unstyled text-center">
+        @foreach (string product in Model.Products)
+        {        
+        
+            <li class="fs-4 fw-bold text-dark mb-2">@product</li>
+     
+        
+        }
+    </ul>
+    
+    
+    
+</div>

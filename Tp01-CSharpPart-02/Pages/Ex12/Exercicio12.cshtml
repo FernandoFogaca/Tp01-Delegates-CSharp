@@ -1,0 +1,41 @@
+@page
+@model Tp01_CSharpPart_02.Pages.Ex12.Exercicio12
+
+
+<div class="container mt-5">
+<h2 class="mb-4">Adding Items</h2>
+<form method="post">
+
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label" >Title:</label>
+        <input asp-for="Title"  class="form-control"/>
+    </div>
+    <div class="mb-3"><label asp-for="Date"class="form-label">Date</label>
+        <input asp-for="Date" type="date" class="form-control" /> </div>
+    <div class="mb-3"><label asp-for="Location"class="form-label">Location:</label>
+        <input asp-for="Location" class="form-control"/></div>
+
+    <button type="submit" class="btn btn-success">Submit</button>
+
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Title))
+{
+    <div class="mt-4 p-3 bg-light rounded">
+
+        <h4 class="text-success fw-bold fs-5">Event Created</h4>
+
+        <p class="fs-5">
+            <strong>Title:</strong> @Model.Title <br />
+            <strong>Date:</strong> @Model.Date.ToShortDateString() <br />
+            <strong>Location:</strong> @Model.Location
+        </p>
+
+    </div>
+}
+
+
+
+
+</div>
+

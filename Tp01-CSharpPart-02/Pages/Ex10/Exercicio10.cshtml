@@ -1,0 +1,57 @@
+@page
+@model Tp01_CSharpPart_02.Pages.Ex10.Exercicio10
+
+<div class="container mt-5">
+    <h2 class="mb-4">Adding Items</h2>
+    <form method="post">
+
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label" >Name:</label>
+            <input asp-for="Name"  class="form-control"/>
+        </div>
+        <div class="mb-3"><label asp-for="Price"class="form-label">Price:</label>
+            <input asp-for="Price" class="form-control"/></div>
+
+        <button type="submit" class="btn btn-success">Submit</button>
+
+    </form>
+    <br>
+    
+    @if (Model.Name != null)
+    {
+        <div class="mb-3">
+            <h4 class="mb-3 text-success fw-bold fs-5" >Added Items</h4>
+            <p class="text-dark bg-light fs-4">
+                @Model.Name<br>
+                @Model.Price
+            </p>
+
+
+        </div>
+    }
+    
+    @if (Model.Name != null)
+    {
+        <div class="mb-3">
+            <h4 class="mb-3 text-success fw-bold fs-5" >Added Items</h4>
+            <p class="text-dark bg-light fs-4">
+                @Model.Name<br>
+                @Model.Price
+            </p>
+
+
+        </div>
+    }
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
