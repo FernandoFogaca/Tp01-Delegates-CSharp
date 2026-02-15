@@ -1,0 +1,14 @@
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/Tp01--Delegates--CSharp13-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/Tp01--Delegates--CSharp13-02.AssemblyInfoInputs.cache
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/Tp01--Delegates--CSharp13-02.AssemblyInfo.cs
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/Tp01--Delegates--CSharp13-02.csproj.CoreCompileInputs.cache
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/bin/Debug/net8.0/Tp01--Delegates--CSharp13-02
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/bin/Debug/net8.0/Tp01--Delegates--CSharp13-02.deps.json
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/bin/Debug/net8.0/Tp01--Delegates--CSharp13-02.runtimeconfig.json
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/bin/Debug/net8.0/Tp01--Delegates--CSharp13-02.dll
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/bin/Debug/net8.0/Tp01--Delegates--CSharp13-02.pdb
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/Tp01--Delegates--CSharp13-02.dll
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/refint/Tp01--Delegates--CSharp13-02.dll
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/Tp01--Delegates--CSharp13-02.pdb
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/Tp01--Delegates--CSharp13-02.genruntimeconfig.cache
+/Users/fernandofogaca/RiderProjects/Tp01--Delegates--CSharp13-02/Tp01--Delegates--CSharp13-02/obj/Debug/net8.0/ref/Tp01--Delegates--CSharp13-02.dll
