@@ -1,4 +1,4 @@
-C# Delegates and Razor Pages Practice
+** C# Delegates and Razor Pages Practice
 
 This repository contains exercises completed while studying C# and ASP.NET Core.
 
